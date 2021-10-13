@@ -1,0 +1,5 @@
+setup.py
+fairness.egg-info/PKG-INFO
+fairness.egg-info/SOURCES.txt
+fairness.egg-info/dependency_links.txt
+fairness.egg-info/top_level.txt
